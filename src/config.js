@@ -29,34 +29,34 @@
  */
 export default {
   // 博客基础配置
-  title: 'wallleap',
-  subtitle: 'ルー・ワン',
-  description: 'Luwang\'s blog',
-  keywords: 'Luwang, blog, wallleap',
-  favicon: '/favicon.ico',
-  favicon16: '/favicon.ico',
-  favicon32: '/favicon.ico',
-  createdTime: '2019-08-01',
-  icp: '赣ICP备20000895号-1',
-  icpLink: '//beian.miit.gov.cn/',
+  title: 'Riceneeder',
+  subtitle: '人是铁饭是钢',
+  description: 'Riceneeder\'s blog',
+  keywords: 'Riceneeder, blog, TCM, Python, JavaScript',
+  favicon: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
+  favicon16: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
+  favicon32: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
+  createdTime: '2023-08-11',
+  icp: '',
+  icpLink: '',
   beian: '',
   beianLink: '',
   // 关于页二维码
-  alipay_qr: '//cdn.wallleap.cn/img/custom/donate/alipayQr.jpg',
+  alipay_qr: '',
   // GitHub Issues 配置
-  username: 'wallleap',
-  repository: 'myblogs',
+  username: 'Riceneeder',
+  repository: 'Riceneeder',
   friendsRepo: 'friends',
   // 您的信息
-  author: 'Luwang',
-  email: 'luwang@oicode.cn',
-  link: '//luwang.info',
-  github: '//github.com/wallleap',
+  author: 'Riceneeder',
+  email: '845541909@qq.com',
+  link: '//github.com/Riceneeder',
+  github: '//github.com/Riceneeder',
   // 友链信息
-  name: 'wallleap',
-  url: '//myblog.wallleap.cn',
-  avatar: '//gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256',
-  desc: 'Luwang\'s blog',
+  name: 'Riceneeder',
+  url: '//gankun.cn.ma',
+  avatar: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
+  desc: 'Riceneeder\'s blog',
   // 文章相关
   pageSize: 12,
   defaultCover: '//cdn.wallleap.cn/img/post/1.jpg',
@@ -65,7 +65,7 @@ export default {
   // 评论配置
   utterances: {
     code: `<script src="https://utteranc.es/client.js"
-      repo="wallleap/comments"
+      repo="Riceneeder/blog-comments"
       issue-term="title"
       label="Comment"
       theme="github-light"
