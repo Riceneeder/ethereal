@@ -36,7 +36,7 @@ export default {
   favicon: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
   favicon16: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
   favicon32: '//q1.qlogo.cn/g?b=qq&nk=845541909&s=100',
-  createdTime: '2023-08-11',
+  createdTime: '2022-08-11',
   icp: '',
   icpLink: '',
   beian: '',
@@ -59,7 +59,7 @@ export default {
   desc: 'Riceneeder\'s blog',
   // 文章相关
   pageSize: 12,
-  defaultCover: '//cdn.wallleap.cn/img/post/1.jpg',
+  defaultCover: '//download.gankun.cn.ma/api/raw/?path=/%E5%9B%BE%E7%89%87/%E7%81%AB%E7%83%A7%E4%BA%91.webp',
   // 图片加载失败时显示，请将图片下载至你自己的存储空间，并使用自己的 CDN 引入
   errorImg: '//cdn.wallleap.cn/img/pic/cover/image_processing20200524-7638-6itpxj.gif',
   // 评论配置
