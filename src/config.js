@@ -50,7 +50,7 @@ export default {
   // 您的信息
   author: 'Riceneeder',
   email: '845541909@qq.com',
-  link: '//github.com/Riceneeder',
+  link: '//gankun.cn.ma',
   github: '//github.com/Riceneeder',
   // 友链信息
   name: 'Riceneeder',
